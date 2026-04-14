@@ -24,8 +24,12 @@ a {
     background:#fff;
 }
 .red{
-    background:red;
+    background:#73c2fb;
 }
 .blue{
-    background:#00b6dd;
+    background:#73c2fb;
+}
+img{
+    display:block;
+    margin:auto;
 }
