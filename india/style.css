@@ -25,7 +25,12 @@ a {
 }
 .white{
     background:#FFFFFF;
+    text-align:center;
 }
 .green{
     background:#046A38;
+}
+
+img {
+    width:22%;
 }
