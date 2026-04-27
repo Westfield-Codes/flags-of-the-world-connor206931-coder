@@ -1,0 +1,14 @@
+.red{
+    background-color:red;
+}
+.flag{
+    height:500px;
+    width:700px;
+    text-align:center;
+    background-color:red;
+    padding-top:118px;
+    box-sizing:border-box;
+}
+img{
+    width:230px;
+}
