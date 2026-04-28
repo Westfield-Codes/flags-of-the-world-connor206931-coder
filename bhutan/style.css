@@ -1,0 +1,22 @@
+.border{
+  border-style:solid;
+  border-color:yellow orange;
+}
+.flag {
+  height: 400px; /* 200 * 2 = 400 */
+  width: 600px; /* 200 * 3 = 400 */
+  border-style:solid;
+  border-color:#FFCD00 #FF691D;
+  border-width:400px 600px 0 0;
+  box-sizing:border-box;
+  text-align:center;
+}
+#dragon{
+  position:relative;
+  margin-left:75px;
+  margin-top:-340px;
+}
+img{
+  height:300px;
+  width:400px;
+}
